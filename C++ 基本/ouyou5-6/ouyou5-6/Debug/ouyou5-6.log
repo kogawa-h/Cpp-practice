@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\lab\source\repos\ouyou5-6\ouyou5-6\source.cpp(19): error C2039: 'front': 'std::stack<std::string,std::deque<_Ty,std::allocator<_Ty>>>' のメンバーではありません。
+          with
+          [
+              _Ty=std::string
+          ]
+  c:\users\lab\source\repos\ouyou5-6\ouyou5-6\source.cpp(9): note: 'std::stack<std::string,std::deque<_Ty,std::allocator<_Ty>>>' の宣言を確認してください
+          with
+          [
+              _Ty=std::string
+          ]

@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\lab\source\repos\ouyou3-2\ouyou3-2\collectionint.h(13): warning C4244: '初期化中': 'double' から 'unsigned int' への変換です。データが失われる可能性があります。
+  c:\users\lab\source\repos\ouyou3-2\ouyou3-2\collectionint.h(12): note: クラス テンプレート のメンバー関数 'CollectionInt<double>::CollectionInt(T *,T)' のコンパイル中
+          with
+          [
+              T=double
+          ]
+  c:\users\lab\source\repos\ouyou3-2\ouyou3-2\main.cpp(9): note: コンパイル対象の関数 テンプレート インスタンス化 'CollectionInt<double>::CollectionInt(T *,T)' のリファレンスを確認してください
+          with
+          [
+              T=double
+          ]
+  c:\users\lab\source\repos\ouyou3-2\ouyou3-2\main.cpp(9): note: コンパイル対象の クラス テンプレート インスタンス化 'CollectionInt<double>' のリファレンスを確認してください
+c:\users\lab\source\repos\ouyou3-2\ouyou3-2\collectionint.h(14): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  ouyou3-2.vcxproj -> c:\Users\lab\source\repos\ouyou3-2\Debug\ouyou3-2.exe

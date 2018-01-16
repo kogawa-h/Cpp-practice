@@ -1,0 +1,4 @@
+﻿  NewString.cpp
+c:\users\lab\desktop\c++ 基本\ouyou7-2\ouyou7-2\newstring.cpp(1): fatal error C1083: include ファイルを開けません。'boost/algorithm/string.hpp':No such file or directory
+  main.cpp
+  コードを生成中...

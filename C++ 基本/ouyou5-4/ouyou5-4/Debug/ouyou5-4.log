@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\lab\source\repos\ouyou5-4\ouyou5-4\source.cpp(13): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  ouyou5-4.vcxproj -> c:\Users\lab\source\repos\ouyou5-4\Debug\ouyou5-4.exe
